@@ -1,0 +1,46 @@
+{
+  "cart": [
+    {
+      "id": "1",
+      "image": "../img/product/p1.jpg",
+      "title": "addidas New Hammer sole for Sports person",
+      "price": "$150.00",
+      "price2": "$120.00"
+    },
+    {
+      "id": "2",
+      "image": "../img/product/p2.jpg",
+      "title": "addidas New Hammer sole for Sports person",
+      "price": "$150.00",
+      "price2": "$120.00"
+    },
+    {
+      "id": "3",
+      "image": "../img/product/p3.jpg",
+      "title": "addidas New Hammer sole for Sports person",
+      "price": "$150.00",
+      "price2": "$120.00"
+    },
+    {
+      "id": "4",
+      "image": "../img/product/p4.jpg",
+      "title": "addidas New Hammer sole for Sports person",
+      "price": "$150.00",
+      "price2": "$120.00"
+    },
+    {
+      "id": "5",
+      "image": "../img/product/p5.jpg",
+      "title": "addidas New Hammer sole for Sports person",
+      "price": "$150.00",
+      "price2": "$120.00"
+    },
+    {
+      "id": "6",
+      "image": "../img/product/p6.jpg",
+      "title": "addidas New Hammer sole for Sports person",
+      "price": "$400.00",
+      "price2": "$120.00"
+    }
+  ]
+}
