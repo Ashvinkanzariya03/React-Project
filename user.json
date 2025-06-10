@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "ashvin",
+      "email": "ashvin@gmail.com",
+      "cart": [
+        {
+          "id": "1",
+          "image": "../img/product/p1.jpg",
+          "title": "addidas New Hammer sole for Sports person",
+          "price": "$150.00"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mitul",
+      "email": "Mitul@gmail.com",
+      "cart": [
+        {
+          "id": "2",
+          "image": "../img/product/p2.jpg",
+          "title": "addidas New Hammer sole for Sports person",
+          "price": "$150.00"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "manoj",
+      "email": "manoj@gmail.com"
+    },
+    {
+      "id": "28c1",
+      "email": "ashvin@gamil.com",
+      "Password": "ashvin ashvin"
+    },
+    {
+      "id": "2528",
+      "email": "a@gmail.com",
+      "Password": "24"
+    },
+    {
+      "id": "7582",
+      "email": "abcd@abc.com",
+      "Password": "12"
+    },
+    {
+      "id": "4a44",
+      "email": "abcd@abc.com",
+      "Password": "12"
+    }
+  ]
+}
